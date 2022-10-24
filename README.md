@@ -15,4 +15,4 @@ This script allows you to add different frames and to control the level of preci
 
 
 ## License
-See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/aurelienmaufroid/image-dithering-filter/blob/main/LICENCE) file for license rights and limitations (MIT).
